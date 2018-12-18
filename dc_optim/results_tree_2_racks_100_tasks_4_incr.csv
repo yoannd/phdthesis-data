@@ -1,0 +1,11 @@
+Go!
+Creating traffic matrix
+step 0 migrated 4 throughput 636.000000 time 2.992813
+step 1 migrated 8 throughput 709.000000 time 6.245337
+step 2 migrated 12 throughput 765.000000 time 17.252860
+step 3 migrated 16 throughput 810.000000 time 50.197971
+step 4 migrated 20 throughput 854.000000 time 41.924905
+step 5 migrated 24 throughput 888.000000 time 48.061382
+step 6 migrated 28 throughput 917.000000 time 36.647947
+step 7 migrated 30 throughput 932.000000 time 7.111082
+total migrated 30 throughput 932.000000 time 210.434297
